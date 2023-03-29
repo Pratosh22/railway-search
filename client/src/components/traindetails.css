@@ -13,3 +13,16 @@
     align-items: center;
     justify-content: center;
 }
+.train{
+   display:flex;
+    flex-direction: row;
+}
+
+.source{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.distance{
+    margin-left: 20px;
+    margin-right: 20px;
+}
